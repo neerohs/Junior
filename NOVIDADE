@@ -1,0 +1,8 @@
+#EXTM3U
+
+---FEVEREIRO
+
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB367uFcyU2uhGkFqo5RB4Evdji.jpg" group-title="FEVEREIRO",Aquaman - 2018
+http://grtsvk.life:8080/movie/junior0001/0001junior/30148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venom - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysV0NOrxUelK290XONEQePpw4zB.jpg" group-title="FEVEREIRO",Venom - 2018
+http://grtsvk.life:8080/movie/junior0001/0001junior/30197.mp4

@@ -1,3 +1,20 @@
+#EXTM3U
+
+CAMPEONATO----------
+
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1" tvg-logo="https://diariodorio.com/wp-content/uploads/2021/02/campeonato-carioca-2021-1280x720.jpg" group-title="PAY-PER-VIEW",CAMPEONATO CARIOCA 1
+http://grtsvk.life:8080/junior0001/0001junior02/83295
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2" tvg-logo="https://diariodorio.com/wp-content/uploads/2021/02/campeonato-carioca-2021-1280x720.jpg" group-title="PAY-PER-VIEW",CAMPEONATO CARIOCA 2
+http://grtsvk.life:8080/junior0001/0001junior02/83296
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 1" tvg-logo="http://s2.glbimg.com/YPXpdhFOlbdLZd7nbqiyCOZ7Hvc=/s.glbimg.com/og/rg/f/original/2014/01/21/campeonato_catarinense.jpg" group-title="SPORTS",CAMPEONATO CATARINENSE 1
+http://grtsvk.life:8080/junior0001/0001junior02/83292
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 2" tvg-logo="http://s2.glbimg.com/YPXpdhFOlbdLZd7nbqiyCOZ7Hvc=/s.glbimg.com/og/rg/f/original/2014/01/21/campeonato_catarinense.jpg" group-title="SPORTS",CAMPEONATO CATARINENSE 2
+http://grtsvk.life:8080/junior0001/0001junior02/83293
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 3" tvg-logo="http://s2.glbimg.com/YPXpdhFOlbdLZd7nbqiyCOZ7Hvc=/s.glbimg.com/og/rg/f/original/2014/01/21/campeonato_catarinense.jpg" group-title="SPORTS",CAMPEONATO CATARINENSE 3
+http://grtsvk.life:8080/junior0001/0001junior02/83294
+
+
+
 ---PREMIERES---
 
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 FHD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 2 FHD

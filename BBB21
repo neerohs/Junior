@@ -1,8 +1,23 @@
-#EXTM3U
-
----FEVEREIRO
-
-#EXTINF:-1 tvg-id="" tvg-name="Aquaman - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB367uFcyU2uhGkFqo5RB4Evdji.jpg" group-title="FEVEREIRO",Aquaman - 2018
-http://grtsvk.life:8080/movie/junior0001/0001junior02/30148.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Venom - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysV0NOrxUelK290XONEQePpw4zB.jpg" group-title="FEVEREIRO",Venom - 2018
-http://grtsvk.life:8080/movie/junior0001/0001junior02/30197.mp4
+---BBB---
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 01
+http://grtsvk.life:8080/junior0001/0001junior02/62319
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01¹" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 01¹
+http://grtsvk.life:8080/junior0001/0001junior02/64038
+#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 02
+http://grtsvk.life:8080/junior0001/0001junior02/64069
+#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 03
+http://grtsvk.life:8080/junior0001/0001junior02/66143
+#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 04
+http://grtsvk.life:8080/junior0001/0001junior02/66144
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 MOSAICO" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 2021 MOSAICO
+http://grtsvk.life:8080/junior0001/0001junior02/64068
+#EXTINF:-1 tvg-id="" tvg-name="BBB CONFESSIONARIO" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB CONFESSIONARIO
+http://grtsvk.life:8080/junior0001/0001junior02/70855
+#EXTINF:-1 tvg-id="" tvg-name="BBB COZINHA VIP XEPA" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB COZINHA VIP XEPA
+http://grtsvk.life:8080/junior0001/0001junior02/70856
+#EXTINF:-1 tvg-id="" tvg-name="BBB PISCINA" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB PISCINA
+http://grtsvk.life:8080/junior0001/0001junior02/70857
+#EXTINF:-1 tvg-id="" tvg-name="BBB QUARTO COLORIDO" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB QUARTO COLORIDO
+http://grtsvk.life:8080/junior0001/0001junior02/71571
+#EXTINF:-1 tvg-id="" tvg-name="BBB SALA DE ESTAR" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB SALA DE ESTAR
+http://grtsvk.life:8080/junior0001/0001junior02/71572

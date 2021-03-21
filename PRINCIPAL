@@ -54,7 +54,57 @@ http://grtsvk.life:8080/junior0001/0001junior02/71489
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA SD" tvg-logo="https://1.bp.blogspot.com/-V9_vn_7Znh4/YBxY10r3GdI/AAAAAAAAJx0/cWs8X2rtZV8g9Wm8GjmzB1oA3rhXUHNkQCLcBGAsYHQ/s0/FUTURA.png" group-title="ABERTOS",FUTURA SD
 http://grtsvk.life:8080/junior0001/0001junior02/71202
 
+--------INFANTIL
+
+
+
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="https://lh3.googleusercontent.com/-TGPzE7zgafw/YB7c9Zsr-YI/AAAAAAAAKBk/DPh9uu5H6Ns1kacIYYfF7DrphviMaIkpQCLcBGAsYHQ/NICK%2BJR.png" group-title="INFANTIL",NICK JR FHD
+http://grtsvk.life:8080/junior0001/0001junior02/71085
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="https://lh3.googleusercontent.com/-TGPzE7zgafw/YB7c9Zsr-YI/AAAAAAAAKBk/DPh9uu5H6Ns1kacIYYfF7DrphviMaIkpQCLcBGAsYHQ/NICK%2BJR.png" group-title="INFANTIL",NICK JR HD
+http://grtsvk.life:8080/junior0001/0001junior02/71368
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://lh3.googleusercontent.com/-TGPzE7zgafw/YB7c9Zsr-YI/AAAAAAAAKBk/DPh9uu5H6Ns1kacIYYfF7DrphviMaIkpQCLcBGAsYHQ/NICK%2BJR.png" group-title="INFANTIL",NICK JR SD
+http://grtsvk.life:8080/junior0001/0001junior02/71234
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://lh3.googleusercontent.com/-TGPzE7zgafw/YB7c9Zsr-YI/AAAAAAAAKBk/DPh9uu5H6Ns1kacIYYfF7DrphviMaIkpQCLcBGAsYHQ/NICK%2BJR.png" group-title="INFANTIL",NICK JR SD
+http://grtsvk.life:8080/junior0001/0001junior02/71693
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://lh3.googleusercontent.com/-nLpTY70zUsE/YB7gOTY3MEI/AAAAAAAAKBw/ez8j0QomxDMijqa3u2yd-e8elztXwtOYgCLcBGAsYHQ/ICONES%2BFAZER.png" group-title="INFANTIL",NICKELODEON HD
+http://grtsvk.life:8080/junior0001/0001junior02/71367
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://lh3.googleusercontent.com/-nLpTY70zUsE/YB7gOTY3MEI/AAAAAAAAKBw/ez8j0QomxDMijqa3u2yd-e8elztXwtOYgCLcBGAsYHQ/ICONES%2BFAZER.png" group-title="INFANTIL",NICKELODEON SD
+http://grtsvk.life:8080/junior0001/0001junior02/71235
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV FHD" tvg-logo="https://lh3.googleusercontent.com/-JHwotrR38NU/YB7V9K_OR4I/AAAAAAAAKAo/wnVz0r2BT4AB0o5bmxT_HrDkjTWcg31oQCLcBGAsYHQ/BABY%2BTV.png" group-title="INFANTIL",BABY TV FHD
+http://grtsvk.life:8080/junior0001/0001junior02/71078
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="https://lh3.googleusercontent.com/-JHwotrR38NU/YB7V9K_OR4I/AAAAAAAAKAo/wnVz0r2BT4AB0o5bmxT_HrDkjTWcg31oQCLcBGAsYHQ/BABY%2BTV.png" group-title="INFANTIL",BABY TV HD
+http://grtsvk.life:8080/junior0001/0001junior02/71165
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV SD" tvg-logo="https://lh3.googleusercontent.com/-JHwotrR38NU/YB7V9K_OR4I/AAAAAAAAKAo/wnVz0r2BT4AB0o5bmxT_HrDkjTWcg31oQCLcBGAsYHQ/BABY%2BTV.png" group-title="INFANTIL",BABY TV SD
+http://grtsvk.life:8080/junior0001/0001junior02/71691
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG FHD" tvg-logo="https://lh3.googleusercontent.com/-dJhXHHD8yBw/YB7bub1HReI/AAAAAAAAKBU/twsGJnnLwe4sq2hyr6BE2cdA2Hxmc_1rACLcBGAsYHQ/BOOMERANG.png" group-title="INFANTIL",BOOMERANG FHD
+http://grtsvk.life:8080/junior0001/0001junior02/71079
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="https://lh3.googleusercontent.com/-dJhXHHD8yBw/YB7bub1HReI/AAAAAAAAKBU/twsGJnnLwe4sq2hyr6BE2cdA2Hxmc_1rACLcBGAsYHQ/BOOMERANG.png" group-title="INFANTIL",BOOMERANG HD
+http://grtsvk.life:8080/junior0001/0001junior02/71458
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG SD" tvg-logo="https://lh3.googleusercontent.com/-dJhXHHD8yBw/YB7bub1HReI/AAAAAAAAKBU/twsGJnnLwe4sq2hyr6BE2cdA2Hxmc_1rACLcBGAsYHQ/BOOMERANG.png" group-title="INFANTIL",BOOMERANG SD
+http://grtsvk.life:8080/junior0001/0001junior02/71171
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://lh3.googleusercontent.com/-SGk3TJ6zlHE/YB7ZW6LmbjI/AAAAAAAAKBA/5yp5VHL_-t0EkNxeRrz1GG5x4aeciTZqwCLcBGAsYHQ/CARTOON%2BNETWORK.png" group-title="INFANTIL",CARTOON NETWORK FHD
+http://grtsvk.life:8080/junior0001/0001junior02/71080
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="https://lh3.googleusercontent.com/-SGk3TJ6zlHE/YB7ZW6LmbjI/AAAAAAAAKBA/5yp5VHL_-t0EkNxeRrz1GG5x4aeciTZqwCLcBGAsYHQ/CARTOON%2BNETWORK.png" group-title="INFANTIL",CARTOON NETWORK HD
+http://grtsvk.life:8080/junior0001/0001junior02/71318
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK SD" tvg-logo="https://lh3.googleusercontent.com/-SGk3TJ6zlHE/YB7ZW6LmbjI/AAAAAAAAKBA/5yp5VHL_-t0EkNxeRrz1GG5x4aeciTZqwCLcBGAsYHQ/CARTOON%2BNETWORK.png" group-title="INFANTIL",CARTOON NETWORK SD
+http://grtsvk.life:8080/junior0001/0001junior02/71692
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST FHD" tvg-logo="https://lh3.googleusercontent.com/-g8HgpzlLFf4/YB7YJu7t-6I/AAAAAAAAKA0/ufbi_q7GJVUd3Un_HJwPo7ie8NCmNkZSwCLcBGAsYHQ/TOONCAST.png" group-title="INFANTIL",TOONCAST FHD
+http://grtsvk.life:8080/junior0001/0001junior02/71086
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST HD" tvg-logo="https://lh3.googleusercontent.com/-g8HgpzlLFf4/YB7YJu7t-6I/AAAAAAAAKA0/ufbi_q7GJVUd3Un_HJwPo7ie8NCmNkZSwCLcBGAsYHQ/TOONCAST.png" group-title="INFANTIL",TOONCAST HD
+http://grtsvk.life:8080/junior0001/0001junior02/71460
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST SD" tvg-logo="https://lh3.googleusercontent.com/-g8HgpzlLFf4/YB7YJu7t-6I/AAAAAAAAKA0/ufbi_q7GJVUd3Un_HJwPo7ie8NCmNkZSwCLcBGAsYHQ/TOONCAST.png" group-title="INFANTIL",TOONCAST SD
+http://grtsvk.life:8080/junior0001/0001junior02/71280
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO HD " tvg-logo="https://lh3.googleusercontent.com/-rLw5-ZMSzf0/YB7kkdWz_XI/AAAAAAAAKCE/QZ7cyGTY4vAUySkjpPKHKOYeOW2edfUJwCLcBGAsYHQ/ZOOMOO.png" group-title="INFANTIL",ZOOMOO HD 
+http://grtsvk.life:8080/junior0001/0001junior02/71695
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO SD" tvg-logo="https://lh3.googleusercontent.com/-rLw5-ZMSzf0/YB7kkdWz_XI/AAAAAAAAKCE/QZ7cyGTY4vAUySkjpPKHKOYeOW2edfUJwCLcBGAsYHQ/ZOOMOO.png" group-title="INFANTIL",ZOOMOO SD
+http://grtsvk.life:8080/junior0001/0001junior02/71302
+
+
+
+
+
 ---RECORD
+
 
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RECORD BAHIA HD
 http://grtsvk.life:8080/junior0001/0001junior02/71046
@@ -422,9 +472,7 @@ http://grtsvk.life:8080/junior0001/0001junior02/71158
 ------------ADULTO
 
 
-#EXTM3U
 
----ADULTOS---
 #EXTINF:-1 tvg-id="" tvg-name="trans" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="ADULTOS 24H",trans
 http://grtsvk.life:8080/junior0001/0001junior02/41442
 #EXTINF:-1 tvg-id="" tvg-name="24H Gay" tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s1600/neon-square-png-5.png" group-title="ADULTOS 24H",24H Gay

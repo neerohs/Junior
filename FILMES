@@ -1,218 +1,77 @@
-#EXTM3U
+#EXTM3U size="Medium"
+---------------SERIES
 
----CINE SKY---
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",VER TUDO
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_series/-1/
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 01
-http://grtsvk.life:8080/junior0001/0001junior02/48666
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 02
-http://grtsvk.life:8080/junior0001/0001junior02/48667
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 03
-http://grtsvk.life:8080/junior0001/0001junior02/48898
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 04
-http://grtsvk.life:8080/junior0001/0001junior02/49119
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 05
-http://grtsvk.life:8080/junior0001/0001junior02/23403
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 06
-http://grtsvk.life:8080/junior0001/0001junior02/23404
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 10
-http://grtsvk.life:8080/junior0001/0001junior02/35432
-
----CINE PIPOCA---
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE 01" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 01
-http://grtsvk.life:8080/junior0001/0001junior02/23395
-#EXTINF:-1 tvg-id="" tvg-name="CINE 02" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 02
-http://grtsvk.life:8080/junior0001/0001junior02/43022
-#EXTINF:-1 tvg-id="" tvg-name="CINE 03" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 03
-http://grtsvk.life:8080/junior0001/0001junior02/45967
-#EXTINF:-1 tvg-id="" tvg-name="CINE 04" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 04
-http://grtsvk.life:8080/junior0001/0001junior02/46445
-#EXTINF:-1 tvg-id="" tvg-name="CINE 05" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 05
-http://grtsvk.life:8080/junior0001/0001junior02/47572
-#EXTINF:-1 tvg-id="" tvg-name="CINE 06" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 06
-http://grtsvk.life:8080/junior0001/0001junior02/47573
-#EXTINF:-1 tvg-id="" tvg-name="CINE 07" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 07
-http://grtsvk.life:8080/junior0001/0001junior02/42013
-#EXTINF:-1 tvg-id="" tvg-name="CINE 08" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 08
-http://grtsvk.life:8080/junior0001/0001junior02/48642
-#EXTINF:-1 tvg-id="" tvg-name="CINE 09" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 09
-http://grtsvk.life:8080/junior0001/0001junior02/48663
-#EXTINF:-1 tvg-id="" tvg-name="CINE 10" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 10
-http://grtsvk.life:8080/junior0001/0001junior02/48665#EXTINF:-1 tvg-id="Telecine Action" tvg-name="TELECINE ACTION FHD" tvg-logo="https://1.bp.blogspot.com/-z9bAjhuO5Ao/YBxZBpPX06I/AAAAAAAAJ1A/5Y9lFq2A2gUA9a3o3VgJLfed7IUHRaaogCLcBGAsYHQ/s0/telecine%2Baction.png" group-title="TELECINE",TELECINE ACTION FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71066
-#EXTINF:-1 tvg-id="Telecine Action" tvg-name="TELECINE ACTION HD" tvg-logo="https://1.bp.blogspot.com/-z9bAjhuO5Ao/YBxZBpPX06I/AAAAAAAAJ1A/5Y9lFq2A2gUA9a3o3VgJLfed7IUHRaaogCLcBGAsYHQ/s0/telecine%2Baction.png" group-title="TELECINE",TELECINE ACTION HD
-http://grtsvk.life:8080/junior0001/0001junior02/71386
-#EXTINF:-1 tvg-id="Telecine Action" tvg-name="TELECINE ACTION SD" tvg-logo="https://1.bp.blogspot.com/-z9bAjhuO5Ao/YBxZBpPX06I/AAAAAAAAJ1A/5Y9lFq2A2gUA9a3o3VgJLfed7IUHRaaogCLcBGAsYHQ/s0/telecine%2Baction.png" group-title="TELECINE",TELECINE ACTION SD
-http://grtsvk.life:8080/junior0001/0001junior02/71270
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="TELECINE CULT FHD" tvg-logo="https://1.bp.blogspot.com/-D2s_8Dll7bw/YBxZBwYWhuI/AAAAAAAAJ1E/WmYvLjhIokEoGNm5sAxr4__ob-OGBVlCQCLcBGAsYHQ/s0/telecine%2Bcult.png" group-title="TELECINE",TELECINE CULT FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71072
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="TELECINE CULT HD" tvg-logo="https://1.bp.blogspot.com/-D2s_8Dll7bw/YBxZBwYWhuI/AAAAAAAAJ1E/WmYvLjhIokEoGNm5sAxr4__ob-OGBVlCQCLcBGAsYHQ/s0/telecine%2Bcult.png" group-title="TELECINE",TELECINE CULT HD
-http://grtsvk.life:8080/junior0001/0001junior02/71387
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="TELECINE CULT SD" tvg-logo="https://1.bp.blogspot.com/-D2s_8Dll7bw/YBxZBwYWhuI/AAAAAAAAJ1E/WmYvLjhIokEoGNm5sAxr4__ob-OGBVlCQCLcBGAsYHQ/s0/telecine%2Bcult.png" group-title="TELECINE",TELECINE CULT SD
-http://grtsvk.life:8080/junior0001/0001junior02/71271
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN FHD" tvg-logo="https://1.bp.blogspot.com/-tQTftzwmtUE/YBxZCBroy3I/AAAAAAAAJ1I/a4AkM2Xd4xo9QzH-SLHr78I1VkNuNZzMACLcBGAsYHQ/s0/telecine%2Bfun.png" group-title="TELECINE",TELECINE FUN FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71073
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN HD" tvg-logo="https://1.bp.blogspot.com/-tQTftzwmtUE/YBxZCBroy3I/AAAAAAAAJ1I/a4AkM2Xd4xo9QzH-SLHr78I1VkNuNZzMACLcBGAsYHQ/s0/telecine%2Bfun.png" group-title="TELECINE",TELECINE FUN HD
-http://grtsvk.life:8080/junior0001/0001junior02/71388
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN SD" tvg-logo="https://1.bp.blogspot.com/-tQTftzwmtUE/YBxZCBroy3I/AAAAAAAAJ1I/a4AkM2Xd4xo9QzH-SLHr78I1VkNuNZzMACLcBGAsYHQ/s0/telecine%2Bfun.png" group-title="TELECINE",TELECINE FUN SD
-http://grtsvk.life:8080/junior0001/0001junior02/71272
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://1.bp.blogspot.com/-LUrPenBm3oE/YBxZCN1jmDI/AAAAAAAAJ1M/uUtNvk28VQEbvqwk7JDGF5KNtgGTT-q_gCLcBGAsYHQ/s0/telecine%2Bpipoca.png" group-title="TELECINE",TELECINE PIPOCA FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71068
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://1.bp.blogspot.com/-LUrPenBm3oE/YBxZCN1jmDI/AAAAAAAAJ1M/uUtNvk28VQEbvqwk7JDGF5KNtgGTT-q_gCLcBGAsYHQ/s0/telecine%2Bpipoca.png" group-title="TELECINE",TELECINE PIPOCA HD
-http://grtsvk.life:8080/junior0001/0001junior02/71389
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://1.bp.blogspot.com/-LUrPenBm3oE/YBxZCN1jmDI/AAAAAAAAJ1M/uUtNvk28VQEbvqwk7JDGF5KNtgGTT-q_gCLcBGAsYHQ/s0/telecine%2Bpipoca.png" group-title="TELECINE",TELECINE PIPOCA SD
-http://grtsvk.life:8080/junior0001/0001junior02/71273
-#EXTINF:-1 tvg-id="Telecine Premium FHD H.265" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://1.bp.blogspot.com/-9y9Czx6d9Ic/YBxZCli1hxI/AAAAAAAAJ1Q/ULgYcQkTwXw-3dZraA6olb43zCogLRT3QCLcBGAsYHQ/s0/telecine%2Bpremio.png" group-title="TELECINE",TELECINE PREMIUM FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71069
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://1.bp.blogspot.com/-9y9Czx6d9Ic/YBxZCli1hxI/AAAAAAAAJ1Q/ULgYcQkTwXw-3dZraA6olb43zCogLRT3QCLcBGAsYHQ/s0/telecine%2Bpremio.png" group-title="TELECINE",TELECINE PREMIUM HD
-http://grtsvk.life:8080/junior0001/0001junior02/71390
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://1.bp.blogspot.com/-9y9Czx6d9Ic/YBxZCli1hxI/AAAAAAAAJ1Q/ULgYcQkTwXw-3dZraA6olb43zCogLRT3QCLcBGAsYHQ/s0/telecine%2Bpremio.png" group-title="TELECINE",TELECINE PREMIUM SD
-http://grtsvk.life:8080/junior0001/0001junior02/71274
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://1.bp.blogspot.com/-aJwkqBk-Fiw/YBxZC9Yn1OI/AAAAAAAAJ1U/hKEVqV3L5ScoCw2fy4vsRG6zOVEiaQJ-ACLcBGAsYHQ/s0/telecine%2Btouh.png" group-title="TELECINE",TELECINE TOUCH FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71076
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH HD" tvg-logo="https://1.bp.blogspot.com/-aJwkqBk-Fiw/YBxZC9Yn1OI/AAAAAAAAJ1U/hKEVqV3L5ScoCw2fy4vsRG6zOVEiaQJ-ACLcBGAsYHQ/s0/telecine%2Btouh.png" group-title="TELECINE",TELECINE TOUCH HD
-http://grtsvk.life:8080/junior0001/0001junior02/71391
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH SD" tvg-logo="https://1.bp.blogspot.com/-aJwkqBk-Fiw/YBxZC9Yn1OI/AAAAAAAAJ1U/hKEVqV3L5ScoCw2fy4vsRG6zOVEiaQJ-ACLcBGAsYHQ/s0/telecine%2Btouh.png" group-title="TELECINE",TELECINE TOUCH SD
-http://grtsvk.life:8080/junior0001/0001junior02/71275
-
----HBO---
-
-#EXTINF:-1 tvg-id="HBO 2 FHD" tvg-name="HBO 2 FHD" tvg-logo="https://1.bp.blogspot.com/-_2YuO9JtAzU/YBxY20s7HyI/AAAAAAAAJyE/cNvhUl1gMDoad1383JJfGTYAnFMsidOdwCLcBGAsYHQ/s0/HBO%2B2.png" group-title="HBO",HBO 2 FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71131
-#EXTINF:-1 tvg-id="HBO 2 HD [Alter]" tvg-name="HBO 2 HD" tvg-logo="https://1.bp.blogspot.com/-_2YuO9JtAzU/YBxY20s7HyI/AAAAAAAAJyE/cNvhUl1gMDoad1383JJfGTYAnFMsidOdwCLcBGAsYHQ/s0/HBO%2B2.png" group-title="HBO",HBO 2 HD
-http://grtsvk.life:8080/junior0001/0001junior02/71349
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 SD" tvg-logo="https://1.bp.blogspot.com/-_2YuO9JtAzU/YBxY20s7HyI/AAAAAAAAJyE/cNvhUl1gMDoad1383JJfGTYAnFMsidOdwCLcBGAsYHQ/s0/HBO%2B2.png" group-title="HBO",HBO 2 SD
-http://grtsvk.life:8080/junior0001/0001junior02/71216
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY HD" tvg-logo="https://1.bp.blogspot.com/-ozSuTrMAx1E/YBxY29N7rVI/AAAAAAAAJyI/EIXwgEGjOWs77VaHDhzPggL6XVsA59DtACLcBGAsYHQ/s0/HBO%2BFAMILY.png" group-title="HBO",HBO FAMILY HD
-http://grtsvk.life:8080/junior0001/0001junior02/71350
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY SD" tvg-logo="https://1.bp.blogspot.com/-ozSuTrMAx1E/YBxY29N7rVI/AAAAAAAAJyI/EIXwgEGjOWs77VaHDhzPggL6XVsA59DtACLcBGAsYHQ/s0/HBO%2BFAMILY.png" group-title="HBO",HBO FAMILY SD
-http://grtsvk.life:8080/junior0001/0001junior02/71213
-#EXTINF:-1 tvg-id="HBO FHD" tvg-name="HBO FHD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="HBO",HBO FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71130
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="HBO",HBO HD
-http://grtsvk.life:8080/junior0001/0001junior02/71351
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://1.bp.blogspot.com/-rFXTA8AArtw/YBxY3ZLz_5I/AAAAAAAAJyM/ik9z1JJnR-McLHVIsgmiao1Z_PXEQkr9QCLcBGAsYHQ/s0/HBO%2BMUND.png" group-title="HBO",HBO MUNDI HD
-http://grtsvk.life:8080/junior0001/0001junior02/71137
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://1.bp.blogspot.com/-rFXTA8AArtw/YBxY3ZLz_5I/AAAAAAAAJyM/ik9z1JJnR-McLHVIsgmiao1Z_PXEQkr9QCLcBGAsYHQ/s0/HBO%2BMUND.png" group-title="HBO",HBO MUNDI HD
-http://grtsvk.life:8080/junior0001/0001junior02/71358
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png" group-title="HBO",HBO PLUS FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71132
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png" group-title="HBO",HBO PLUS HD
-http://grtsvk.life:8080/junior0001/0001junior02/71352
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png" group-title="HBO",HBO PLUS SD
-http://grtsvk.life:8080/junior0001/0001junior02/71214
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png" group-title="HBO",HBO POP HD
-http://grtsvk.life:8080/junior0001/0001junior02/71139
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png" group-title="HBO",HBO POP HD
-http://grtsvk.life:8080/junior0001/0001junior02/71360
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO SD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="HBO",HBO SD
-http://grtsvk.life:8080/junior0001/0001junior02/71212
-#EXTINF:-1 tvg-id="HBO Signature FHD H.265" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://1.bp.blogspot.com/-ctso4YZl2cM/YBxY3zFdKcI/AAAAAAAAJyY/osPY1mUaerAmZzoMPtMjzPacIj2uEnAQwCLcBGAsYHQ/s0/HBO%2BSIGNATURE.png" group-title="HBO",HBO SIGNATURE FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71133
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE HD" tvg-logo="https://1.bp.blogspot.com/-ctso4YZl2cM/YBxY3zFdKcI/AAAAAAAAJyY/osPY1mUaerAmZzoMPtMjzPacIj2uEnAQwCLcBGAsYHQ/s0/HBO%2BSIGNATURE.png" group-title="HBO",HBO SIGNATURE HD
-http://grtsvk.life:8080/junior0001/0001junior02/71353
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO SIGNATURE SD" tvg-logo="https://1.bp.blogspot.com/-ctso4YZl2cM/YBxY3zFdKcI/AAAAAAAAJyY/osPY1mUaerAmZzoMPtMjzPacIj2uEnAQwCLcBGAsYHQ/s0/HBO%2BSIGNATURE.png" group-title="HBO",HBO SIGNATURE SD
-http://grtsvk.life:8080/junior0001/0001junior02/71215
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://1.bp.blogspot.com/-M7I_zu8tvUQ/YBxY4CGJjVI/AAAAAAAAJyc/24aVbIN0Fs0fm6NVfHB4fXkclpx44NS9wCLcBGAsYHQ/s0/HBO%2BXTRE.png" group-title="HBO",HBO XTREME HD
-http://grtsvk.life:8080/junior0001/0001junior02/71141
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://1.bp.blogspot.com/-M7I_zu8tvUQ/YBxY4CGJjVI/AAAAAAAAJyc/24aVbIN0Fs0fm6NVfHB4fXkclpx44NS9wCLcBGAsYHQ/s0/HBO%2BXTRE.png" group-title="HBO",HBO XTREME HD
-http://grtsvk.life:8080/junior0001/0001junior02/71359
-
----FILMES E SERIES---
-
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX SD" tvg-logo="https://lh3.googleusercontent.com/-aLoYeViBiqc/YBx4UEvHXpI/AAAAAAAAJ4A/2fKw-l73j30BISNKY0BC3ATlFJHqtPxXACLcBGAsYHQ/FOX.png" group-title="FILMES E SERIES",FOX SD
-http://grtsvk.life:8080/junior0001/0001junior02/71198
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="https://1.bp.blogspot.com/-AQKYBXCQDSI/YBxYysgqsaI/AAAAAAAAJxA/eSTqAmgWbjsrYyDmd0zAjJDLAnHLGc3CACLcBGAsYHQ/s0/A%2526E.png" group-title="FILMES E SERIES",A&E FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71092
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://1.bp.blogspot.com/-AQKYBXCQDSI/YBxYysgqsaI/AAAAAAAAJxA/eSTqAmgWbjsrYyDmd0zAjJDLAnHLGc3CACLcBGAsYHQ/s0/A%2526E.png" group-title="FILMES E SERIES",A&E HD
-http://grtsvk.life:8080/junior0001/0001junior02/71311
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://1.bp.blogspot.com/-AQKYBXCQDSI/YBxYysgqsaI/AAAAAAAAJxA/eSTqAmgWbjsrYyDmd0zAjJDLAnHLGc3CACLcBGAsYHQ/s0/A%2526E.png" group-title="FILMES E SERIES",A&E SD
-http://grtsvk.life:8080/junior0001/0001junior02/71161
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://1.bp.blogspot.com/-RjuT2FVmPlY/YBxYyxz4DdI/AAAAAAAAJxI/0LCk3p1iHF4t2JaVLjQNKeV_L3HHCRc_wCLcBGAsYHQ/s0/AMC.png" group-title="FILMES E SERIES",AMC FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71093
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://1.bp.blogspot.com/-RjuT2FVmPlY/YBxYyxz4DdI/AAAAAAAAJxI/0LCk3p1iHF4t2JaVLjQNKeV_L3HHCRc_wCLcBGAsYHQ/s0/AMC.png" group-title="FILMES E SERIES",AMC HD
-http://grtsvk.life:8080/junior0001/0001junior02/71312
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://1.bp.blogspot.com/-RjuT2FVmPlY/YBxYyxz4DdI/AAAAAAAAJxI/0LCk3p1iHF4t2JaVLjQNKeV_L3HHCRc_wCLcBGAsYHQ/s0/AMC.png" group-title="FILMES E SERIES",AMC SD
-http://grtsvk.life:8080/junior0001/0001junior02/71162
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://lh3.googleusercontent.com/-gwPn2tOVZM8/YBx2wGsMZAI/AAAAAAAAJ30/nVbW9nY-h7Y9pS3kxy0HhVSGWqFWYQ7vQCLcBGAsYHQ/AXN.png" group-title="FILMES E SERIES",AXN HD
-http://grtsvk.life:8080/junior0001/0001junior02/71314
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://lh3.googleusercontent.com/-gwPn2tOVZM8/YBx2wGsMZAI/AAAAAAAAJ30/nVbW9nY-h7Y9pS3kxy0HhVSGWqFWYQ7vQCLcBGAsYHQ/AXN.png" group-title="FILMES E SERIES",AXN SD
-http://grtsvk.life:8080/junior0001/0001junior02/71164
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://1.bp.blogspot.com/-cd5FGWYmztU/YBxY6ExoYsI/AAAAAAAAJzA/hsz2-4bxG7o1e9AzLoCY1N-Z8ItRAV7gwCLcBGAsYHQ/s0/SONY.png" group-title="FILMES E SERIES",CANAL SONY HD
-http://grtsvk.life:8080/junior0001/0001junior02/71317
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://1.bp.blogspot.com/-cd5FGWYmztU/YBxY6ExoYsI/AAAAAAAAJzA/hsz2-4bxG7o1e9AzLoCY1N-Z8ItRAV7gwCLcBGAsYHQ/s0/SONY.png" group-title="FILMES E SERIES",CANAL SONY SD
-http://grtsvk.life:8080/junior0001/0001junior02/71174
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://1.bp.blogspot.com/-ZrQlGunDZRY/YBxY0Mbx1cI/AAAAAAAAJxY/gU6TOu3vylQLvOgwVFcSHcJd8ti-dTYBACLcBGAsYHQ/s0/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71094
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://1.bp.blogspot.com/-ZrQlGunDZRY/YBxY0Mbx1cI/AAAAAAAAJxY/gU6TOu3vylQLvOgwVFcSHcJd8ti-dTYBACLcBGAsYHQ/s0/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX HD
-http://grtsvk.life:8080/junior0001/0001junior02/71319
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://1.bp.blogspot.com/-ZrQlGunDZRY/YBxY0Mbx1cI/AAAAAAAAJxY/gU6TOu3vylQLvOgwVFcSHcJd8ti-dTYBACLcBGAsYHQ/s0/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX SD
-http://grtsvk.life:8080/junior0001/0001junior02/71177
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM & ART HD" tvg-logo="https://lh3.googleusercontent.com/-wFBrjFHqYyA/YBx8afDp4OI/AAAAAAAAJ4k/yjj4CIsPkHo0uth-j7_epEc7CrRAZHu4gCLcBGAsYHQ/FILM%2B%2526%2BART.png" group-title="FILMES E SERIES",FILM & ART HD
-http://grtsvk.life:8080/junior0001/0001junior02/71461
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM & ARTS SD" tvg-logo="https://lh3.googleusercontent.com/-wFBrjFHqYyA/YBx8afDp4OI/AAAAAAAAJ4k/yjj4CIsPkHo0uth-j7_epEc7CrRAZHu4gCLcBGAsYHQ/FILM%2B%2526%2BART.png" group-title="FILMES E SERIES",FILM & ARTS SD
-http://grtsvk.life:8080/junior0001/0001junior02/71195
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="https://lh3.googleusercontent.com/-aLoYeViBiqc/YBx4UEvHXpI/AAAAAAAAJ4A/2fKw-l73j30BISNKY0BC3ATlFJHqtPxXACLcBGAsYHQ/FOX.png" group-title="FILMES E SERIES",FOX HD
-http://grtsvk.life:8080/junior0001/0001junior02/71338
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="https://lh3.googleusercontent.com/-IgSsbk6TeGQ/YBxwZhfFmEI/AAAAAAAAJ3U/4wSIewTLk98XGKJ8Hh5tc3AAAHF27iKNACLcBGAsYHQ/FOX%2BLIFE.png" group-title="FILMES E SERIES",FOX LIFE HD
-http://grtsvk.life:8080/junior0001/0001junior02/71339
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE SD" tvg-logo="https://lh3.googleusercontent.com/-IgSsbk6TeGQ/YBxwZhfFmEI/AAAAAAAAJ3U/4wSIewTLk98XGKJ8Hh5tc3AAAHF27iKNACLcBGAsYHQ/FOX%2BLIFE.png" group-title="FILMES E SERIES",FOX LIFE SD
-http://grtsvk.life:8080/junior0001/0001junior02/71199
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX SD" tvg-logo="https://lh3.googleusercontent.com/-aLoYeViBiqc/YBx4UEvHXpI/AAAAAAAAJ4A/2fKw-l73j30BISNKY0BC3ATlFJHqtPxXACLcBGAsYHQ/FOX.png" group-title="FILMES E SERIES",FOX SD
-http://grtsvk.life:8080/junior0001/0001junior02/71198
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://1.bp.blogspot.com/-jJobfitIDsY/YBxY2LI8l7I/AAAAAAAAJx4/tmNYDmDavk4iend3E4Z3cDqvVk_yDsa8QCLcBGAsYHQ/s0/FX.png" group-title="FILMES E SERIES",FX HD
-http://grtsvk.life:8080/junior0001/0001junior02/71344
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://1.bp.blogspot.com/-jJobfitIDsY/YBxY2LI8l7I/AAAAAAAAJx4/tmNYDmDavk4iend3E4Z3cDqvVk_yDsa8QCLcBGAsYHQ/s0/FX.png" group-title="FILMES E SERIES",FX SD
-http://grtsvk.life:8080/junior0001/0001junior02/71203
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://lh3.googleusercontent.com/-0DWVERIDMDU/YBxrSQi1c7I/AAAAAAAAJ3I/oX_bFNW5HcAreoON96JOuevw4Tg9DpS-wCLcBGAsYHQ/Megapix.png" group-title="FILMES E SERIES",MEGAPIX FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71088
-#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX HD" tvg-logo="https://lh3.googleusercontent.com/-0DWVERIDMDU/YBxrSQi1c7I/AAAAAAAAJ3I/oX_bFNW5HcAreoON96JOuevw4Tg9DpS-wCLcBGAsYHQ/Megapix.png" group-title="FILMES E SERIES",MEGAPIX HD
-http://grtsvk.life:8080/junior0001/0001junior02/71361
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://lh3.googleusercontent.com/-0DWVERIDMDU/YBxrSQi1c7I/AAAAAAAAJ3I/oX_bFNW5HcAreoON96JOuevw4Tg9DpS-wCLcBGAsYHQ/Megapix.png" group-title="FILMES E SERIES",MEGAPIX SD
-http://grtsvk.life:8080/junior0001/0001junior02/71225
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="https://lh3.googleusercontent.com/-wx074iTBA_E/YBx1cb6OYKI/AAAAAAAAJ3o/P0kEcJzTKwIuHqMr1IblJchbgdVPNXfLgCLcBGAsYHQ/PARAMOUNT.png" group-title="FILMES E SERIES",PARAMOUNT HD
-http://grtsvk.life:8080/junior0001/0001junior02/71095
-#EXTINF:-1 tvg-id="Paramount" tvg-name="PARAMOUNT HD" tvg-logo="https://lh3.googleusercontent.com/-wx074iTBA_E/YBx1cb6OYKI/AAAAAAAAJ3o/P0kEcJzTKwIuHqMr1IblJchbgdVPNXfLgCLcBGAsYHQ/PARAMOUNT.png" group-title="FILMES E SERIES",PARAMOUNT HD
-http://grtsvk.life:8080/junior0001/0001junior02/71370
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD" tvg-logo="https://lh3.googleusercontent.com/-wx074iTBA_E/YBx1cb6OYKI/AAAAAAAAJ3o/P0kEcJzTKwIuHqMr1IblJchbgdVPNXfLgCLcBGAsYHQ/PARAMOUNT.png" group-title="FILMES E SERIES",PARAMOUNT SD
-http://grtsvk.life:8080/junior0001/0001junior02/71237
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="https://lh3.googleusercontent.com/-uqEXAPfLRCU/YBxnv44PMkI/AAAAAAAAJ2k/ySo4DFB7c7wWTj6pFm7vUr9XQRABG7-QgCLcBGAsYHQ/spacetv.png" group-title="FILMES E SERIES",SPACE FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71099
-#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE HD" tvg-logo="https://lh3.googleusercontent.com/-uqEXAPfLRCU/YBxnv44PMkI/AAAAAAAAJ2k/ySo4DFB7c7wWTj6pFm7vUr9XQRABG7-QgCLcBGAsYHQ/spacetv.png" group-title="FILMES E SERIES",SPACE HD
-http://grtsvk.life:8080/junior0001/0001junior02/71380
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://lh3.googleusercontent.com/-uqEXAPfLRCU/YBxnv44PMkI/AAAAAAAAJ2k/ySo4DFB7c7wWTj6pFm7vUr9XQRABG7-QgCLcBGAsYHQ/spacetv.png" group-title="FILMES E SERIES",SPACE SD
-http://grtsvk.life:8080/junior0001/0001junior02/71262
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://1.bp.blogspot.com/-ym6yEXjxZDM/YBxY8KeFDFI/AAAAAAAAJzY/GL2aFc1ncOEv3_tsTaxg91fb858Wpv7TQCLcBGAsYHQ/s0/STUDIO.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71098
-#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://1.bp.blogspot.com/-ym6yEXjxZDM/YBxY8KeFDFI/AAAAAAAAJzY/GL2aFc1ncOEv3_tsTaxg91fb858Wpv7TQCLcBGAsYHQ/s0/STUDIO.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL HD
-http://grtsvk.life:8080/junior0001/0001junior02/71383
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://1.bp.blogspot.com/-ym6yEXjxZDM/YBxY8KeFDFI/AAAAAAAAJzY/GL2aFc1ncOEv3_tsTaxg91fb858Wpv7TQCLcBGAsYHQ/s0/STUDIO.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL SD
-http://grtsvk.life:8080/junior0001/0001junior02/71266
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://lh3.googleusercontent.com/-Y4ZtImM75Cw/YBx7eaKJsNI/AAAAAAAAJ4c/nY_pESQyBs8EYovyzHPr2vMzk28oALEQQCLcBGAsYHQ/TCM.png" group-title="FILMES E SERIES",TCM HD
-http://grtsvk.life:8080/junior0001/0001junior02/71467
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://lh3.googleusercontent.com/-Y4ZtImM75Cw/YBx7eaKJsNI/AAAAAAAAJ4c/nY_pESQyBs8EYovyzHPr2vMzk28oALEQQCLcBGAsYHQ/TCM.png" group-title="FILMES E SERIES",TCM SD
-http://grtsvk.life:8080/junior0001/0001junior02/71269
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://lh3.googleusercontent.com/-Rz4qPsCBF40/YBxxM1_AcBI/AAAAAAAAJ3c/3k9NkNQF54sX5bDiTtVDhxWgOz7FwioigCLcBGAsYHQ/TNT.png" group-title="FILMES E SERIES",TNT FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71087
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://lh3.googleusercontent.com/-Rz4qPsCBF40/YBxxM1_AcBI/AAAAAAAAJ3c/3k9NkNQF54sX5bDiTtVDhxWgOz7FwioigCLcBGAsYHQ/TNT.png" group-title="FILMES E SERIES",TNT HD
-http://grtsvk.life:8080/junior0001/0001junior02/71393
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://lh3.googleusercontent.com/-Rz4qPsCBF40/YBxxM1_AcBI/AAAAAAAAJ3c/3k9NkNQF54sX5bDiTtVDhxWgOz7FwioigCLcBGAsYHQ/TNT.png" group-title="FILMES E SERIES",TNT SD
-http://grtsvk.life:8080/junior0001/0001junior02/71278
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="FILMES E SERIES",TNT SERIES FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71096
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="FILMES E SERIES",TNT SERIES HD
-http://grtsvk.life:8080/junior0001/0001junior02/71394
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="FILMES E SERIES",TNT SERIES SD
-http://grtsvk.life:8080/junior0001/0001junior02/71279
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL TV SD" tvg-logo="https://lh3.googleusercontent.com/-LmXLpimjSfw/YBxpu52-vgI/AAAAAAAAJ28/SzcwOdeDmtYbuXE1TGxgRivuocPG6glTgCLcBGAsYHQ/Universal%2BTV.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL TV SD
-http://grtsvk.life:8080/junior0001/0001junior02/71304
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD" tvg-logo="https://lh3.googleusercontent.com/-LmXLpimjSfw/YBxpu52-vgI/AAAAAAAAJ28/SzcwOdeDmtYbuXE1TGxgRivuocPG6glTgCLcBGAsYHQ/Universal%2BTV.png" group-title="FILMES E SERIES",UNIVERSAL TV FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71090
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://lh3.googleusercontent.com/-LmXLpimjSfw/YBxpu52-vgI/AAAAAAAAJ28/SzcwOdeDmtYbuXE1TGxgRivuocPG6glTgCLcBGAsYHQ/Universal%2BTV.png" group-title="FILMES E SERIES",UNIVERSAL TV HD
-http://grtsvk.life:8080/junior0001/0001junior02/71399
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://lh3.googleusercontent.com/-SZGyc3sbmJY/YBxotFe-jPI/AAAAAAAAJ20/XsMMcm06F2kLuqeqQyM0t-m9gCaTL8eXQCLcBGAsYHQ/WARNER%2BCHANNEL.png" group-title="FILMES E SERIES",WARNER CHANNEL FHD
-http://grtsvk.life:8080/junior0001/0001junior02/71097
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://lh3.googleusercontent.com/-SZGyc3sbmJY/YBxotFe-jPI/AAAAAAAAJ20/XsMMcm06F2kLuqeqQyM0t-m9gCaTL8eXQCLcBGAsYHQ/WARNER%2BCHANNEL.png" group-title="FILMES E SERIES",WARNER CHANNEL HD
-http://grtsvk.life:8080/junior0001/0001junior02/71402
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://lh3.googleusercontent.com/-SZGyc3sbmJY/YBxotFe-jPI/AAAAAAAAJ20/XsMMcm06F2kLuqeqQyM0t-m9gCaTL8eXQCLcBGAsYHQ/WARNER%2BCHANNEL.png" group-title="FILMES E SERIES",WARNER CHANNEL SD
-http://grtsvk.life:8080/junior0001/0001junior02/71300
+--------------FILMES
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", FILMES | FICÇAO CIENTIFICA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/27/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | TERROR
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/145/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | LANCAMENTO 2019
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/152/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | LANCAMENTOS
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/140/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | 4K
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/151/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | FAROESTE
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/150/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | CLASSICO
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/149/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | INFANTIL
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/148/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | AÇAO
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/147/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | DOCUMENTARIO
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/146/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | COMEDIA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/144/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | DRAMA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/143/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | MARVEL
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/158/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | GUERRA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/142/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | BIBLICO
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/139/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | ROMANCE
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/138/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | CINEMA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/135/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | COLETÂNEA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/153/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | ADULTOS
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/173/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | NACIONAIS
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/175/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | FAMILIA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/182/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | FANTASIA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/183/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | LEGENDADOS 
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/juniortb/800900500/list_movies/184/

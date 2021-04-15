@@ -1,26 +1,25 @@
 #EXTM3U
-
-
----BBB---
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 01
-http://grtsvk.life:8080/junior0001/0001junior02/62319
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01¹" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 01¹
-http://grtsvk.life:8080/junior0001/0001junior02/64038
-#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 02
-http://grtsvk.life:8080/junior0001/0001junior02/64069
-#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 03
-http://grtsvk.life:8080/junior0001/0001junior02/66143
-#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 04
-http://grtsvk.life:8080/junior0001/0001junior02/66144
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 MOSAICO" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 2021 MOSAICO
-http://grtsvk.life:8080/junior0001/0001junior02/64068
-#EXTINF:-1 tvg-id="" tvg-name="BBB CONFESSIONARIO" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB CONFESSIONARIO
-http://grtsvk.life:8080/junior0001/0001junior02/70855
-#EXTINF:-1 tvg-id="" tvg-name="BBB COZINHA VIP XEPA" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB COZINHA VIP XEPA
-http://grtsvk.life:8080/junior0001/0001junior02/70856
-#EXTINF:-1 tvg-id="" tvg-name="BBB PISCINA" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB PISCINA
-http://grtsvk.life:8080/junior0001/0001junior02/70857
-#EXTINF:-1 tvg-id="" tvg-name="BBB QUARTO COLORIDO" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB QUARTO COLORIDO
-http://grtsvk.life:8080/junior0001/0001junior02/71571
-#EXTINF:-1 tvg-id="" tvg-name="BBB SALA DE ESTAR" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB SALA DE ESTAR
-http://grtsvk.life:8080/junior0001/0001junior02/71572
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 01
+http://dns.blackouthd.xyz:80/juniortb/800900500/174025
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01¹" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 01¹
+http://dns.blackouthd.xyz:80/juniortb/800900500/174026
+#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 02
+http://dns.blackouthd.xyz:80/juniortb/800900500/174027
+#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 03
+http://dns.blackouthd.xyz:80/juniortb/800900500/174028
+#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 04
+http://dns.blackouthd.xyz:80/juniortb/800900500/174029
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 MOSAICO" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 2021 MOSAICO
+http://dns.blackouthd.xyz:80/juniortb/800900500/174030
+#EXTINF:-1 tvg-id="" tvg-name="BBB CONFESSIONARIO" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB CONFESSIONARIO
+http://dns.blackouthd.xyz:80/juniortb/800900500/174031
+#EXTINF:-1 tvg-id="" tvg-name="BBB COZINHA VIP XEPA" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB COZINHA VIP XEPA
+http://dns.blackouthd.xyz:80/juniortb/800900500/174032
+#EXTINF:-1 tvg-id="" tvg-name="BBB PISCINA" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB PISCINA
+http://dns.blackouthd.xyz:80/juniortb/800900500/174033
+#EXTINF:-1 tvg-id="" tvg-name="BBB QUARTO COLORIDO" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB QUARTO COLORIDO
+http://dns.blackouthd.xyz:80/juniortb/800900500/174034
+#EXTINF:-1 tvg-id="" tvg-name="BBB SALA DE ESTAR" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB SALA DE ESTAR
+http://dns.blackouthd.xyz:80/juniortb/800900500/174035
+#EXTINF:-1 tvg-id="" tvg-name="BB 21 - BATE PAPO GSHOW" tvg-logo="http://dns.jslinkdns.xyz:80/images/3d12168a30659fbd10e083262acd0306.jpg" group-title="BBB 2021",BB 21 - BATE PAPO GSHOW
+http://dns.blackouthd.xyz:80/juniortb/800900500/190979
